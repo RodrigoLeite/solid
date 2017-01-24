@@ -1,2 +1,2 @@
 # solid
-Implements classes using SOLID principles
+Implementation of classes using SOLID principles.
